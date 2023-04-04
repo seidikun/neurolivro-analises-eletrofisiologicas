@@ -6,4 +6,6 @@ root: intro
 chapters:
 - file: Book1_Cap1
 - file: Book1_Cap2
-- file: notebooks
+- file: Book1_Cap3
+- file: Book1_Cap5
+- file: Book1_Cap7
